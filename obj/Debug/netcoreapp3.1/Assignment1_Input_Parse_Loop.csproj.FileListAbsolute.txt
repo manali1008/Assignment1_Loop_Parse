@@ -1,0 +1,13 @@
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\bin\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.exe
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\bin\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.deps.json
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\bin\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.runtimeconfig.json
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\bin\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.runtimeconfig.dev.json
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\bin\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.dll
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\bin\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.pdb
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.csprojAssemblyReference.cache
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.AssemblyInfoInputs.cache
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.AssemblyInfo.cs
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.csproj.CoreCompileInputs.cache
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.dll
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.pdb
+E:\Manali\Humber\BridgingProgramDotNet\NET12-C#AndWindowsDesktop\Assignment\Projects\Assignment1_Input_Parse_Loop\obj\Debug\netcoreapp3.1\Assignment1_Input_Parse_Loop.genruntimeconfig.cache

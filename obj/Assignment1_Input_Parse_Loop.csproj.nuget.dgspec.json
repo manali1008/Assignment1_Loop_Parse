@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Manali\\Humber\\BridgingProgramDotNet\\NET12-C#AndWindowsDesktop\\Assignment\\Projects\\Assignment1_Input_Parse_Loop\\Assignment1_Input_Parse_Loop.csproj": {}
+  },
+  "projects": {
+    "E:\\Manali\\Humber\\BridgingProgramDotNet\\NET12-C#AndWindowsDesktop\\Assignment\\Projects\\Assignment1_Input_Parse_Loop\\Assignment1_Input_Parse_Loop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Manali\\Humber\\BridgingProgramDotNet\\NET12-C#AndWindowsDesktop\\Assignment\\Projects\\Assignment1_Input_Parse_Loop\\Assignment1_Input_Parse_Loop.csproj",
+        "projectName": "Assignment1_Input_Parse_Loop",
+        "projectPath": "E:\\Manali\\Humber\\BridgingProgramDotNet\\NET12-C#AndWindowsDesktop\\Assignment\\Projects\\Assignment1_Input_Parse_Loop\\Assignment1_Input_Parse_Loop.csproj",
+        "packagesPath": "C:\\Users\\HRIDA\\.nuget\\packages\\",
+        "outputPath": "E:\\Manali\\Humber\\BridgingProgramDotNet\\NET12-C#AndWindowsDesktop\\Assignment\\Projects\\Assignment1_Input_Parse_Loop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HRIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
